@@ -55,7 +55,7 @@ Through automation, observability, and security, I strive to make technology mor
 #### 🏠 [HomeOpsLab-Pi](https://github.com/homeopslab/homeopslab-pi)
 > *Where DevSecOps meets Home Automation, Observability, and Simplicity on Raspberry Pi.*
 
-Transform your Raspberry Pi 4 or 5 into a **self-hosted automation hub** — complete with:
+Transform your Raspberry Pi 5 into a **self-hosted automation hub** — complete with:
 - Privacy-first DNS filtering (Pi-hole + Unbound)
 - Smart-home orchestration (Homebridge)
 - Observability (Prometheus + Grafana)
