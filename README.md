@@ -63,13 +63,24 @@ Transform your Raspberry Pi 4 or 5 into a **self-hosted automation hub** — com
 - Resilience via automated backups & OS cloning
 
 ---
-
 ### 🌐 Connect
 
 <p align="center">
   🔗 <a href="https://github.com/homeopslab">github.com/homeopslab</a><br>
   🏗️ <a href="https://github.com/homeopslab/homeopslab-pi">HomeOpsLab-Pi Repository</a><br>
   💬 <em>“Building self-hosted reliability — one stack at a time.”</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/homeopslab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/denniswittich">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:homeopslab@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
