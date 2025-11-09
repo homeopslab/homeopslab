@@ -22,7 +22,7 @@ Through automation, observability, and security, I strive to make technology mor
 
 | Project | Description | Tech Highlights |
 |----------|--------------|-----------------|
-| 🏡 [**HomeOpsLab-Pi**](https://github.com/homeopslab/homeopslab-pi) | A complete home automation and monitoring stack for Raspberry Pi. | Docker, Homebridge, Pi-hole, Unbound, Prometheus, Grafana |
+| 🏡 [**HomeOpsLab-Pi**](https://github.com/homeopslab/homeopslab-pi) | A complete home automation and monitoring stack for Raspberry Pi 5. | Docker, Homebridge, Pi-hole, Unbound, Prometheus, Grafana |
 | ☸️ **HomeOpsLab-K8s** *(concept stage)* | Scalable Kubernetes-based automation platform for smart homes. | Kubernetes, Helm, Prometheus Operator, FluxCD |
 | 🖥️ **HomeOpsLab-Proxmox** *(idea stage)* | Bare-metal virtualization for resilient home lab automation. | Proxmox VE, Terraform, Ansible, ZFS |
 
